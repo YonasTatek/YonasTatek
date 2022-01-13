@@ -1,16 +1,27 @@
-### Hi there 👋
+# Yonas Tatek
+- 🔭 I’m currently working on jubliee web application and some personal mobile application
+- 🌱 I’m currently learning kotlin and React native animation
+- 👯 I’m looking to collaborate on nodejs,npm,react,react native,kotlin ...etc 
+- 🤔 I’m looking for help with cloud server
+- 💬 Ask me about programming and development
+- 📫 How to reach me: yonastatekcse1@gmail.com
 
-<!--
-**YonasTatek/YonasTatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+🎓🎓🎓 Graduated 🎓 Computer Science And Engineering at Adama Science And Technology University 🎓
 
-Here are some ideas to get you started:
+## skills
+- Mobile Application development(React Native & Kotlin)
+- Web application development(Reactjs,nextjs & Gatsby)
+- nodejs programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- playstore account:
+    🔗 https://play.google.com/store/apps/developer?id=Byt
+- Free API: 
+   🔗 kasopiaapi.herokuapp.com/
+
+| Accounts | 📧 |
+| ------ | ------ |
+| Gmail | yonastatekcse1@gmail.com |
+| linkedin | www.linkedin.com/in/yonastatek |
+
