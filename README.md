@@ -18,7 +18,7 @@
 - playstore account:
     🔗 https://play.google.com/store/apps/developer?id=Byt
 - Free API: 
-   🔗 kasopiaapi.herokuapp.com/
+   🔗 http://kasopiaapi.herokuapp.com/
 
 | Accounts | 📧 |
 | ------ | ------ |
