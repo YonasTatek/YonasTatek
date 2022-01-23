@@ -26,5 +26,5 @@
 | linkedin | www.linkedin.com/in/yonastatek |
 
 
-  <img src="gs://yonas-70718.appspot.com/236551167_2829758387331547_8777529922952829074_n.jpg" width="100%" title="hover text" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/yonas-70718.appspot.com/o/236551167_2829758387331547_8777529922952829074_n.jpg?alt=media&token=5a0be926-bb78-43b8-aa3f-7224b03b25ad" width="100%" title="hover text" />
 
